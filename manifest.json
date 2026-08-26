@@ -1,0 +1,23 @@
+{
+  "background_color": "#ffffff",
+  "dir": "ltr",
+  "display": "standalone",
+  "name": "Pairs",
+  "orientation": "any",
+  "scope": "https://fasatry.github.io/Test/Pairs",
+  "short_name": "Pairs",
+  "start_url": "https://fasatry.github.io/Test/Pairs",
+  "theme_color": "#ffffff",
+  "id": "1",
+  "description": "Pairs",
+  "lang": "en",
+  "categories": [
+    "games"
+  ],
+  "icons": [
+    {
+      "src": "images/launchericon-512x512.png",
+      "sizes": "512x512"
+    }
+  ]
+}
